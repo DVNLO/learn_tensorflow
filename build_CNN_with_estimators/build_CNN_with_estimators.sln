@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "build_CNN_with_estimators", "build_CNN_with_estimators\build_CNN_with_estimators.pyproj", "{2FF9C8B6-AADD-4880-B8F5-A054FD8B6BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF9C8B6-AADD-4880-B8F5-A054FD8B6BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF9C8B6-AADD-4880-B8F5-A054FD8B6BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB20A282-B0CA-4312-98E9-3DDEA2F5B834}
+	EndGlobalSection
+EndGlobal
